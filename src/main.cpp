@@ -1,13 +1,7 @@
 #include <Arduino.h>
 
 /**
- * Created by K. Suwatchai (Mobizt)
- *
- * Email: k_suwatchai@hotmail.com
- *
- * Github: https://github.com/mobizt
- *
- * Copyright (c) 2021 mobizt
+ * Many thanks to K. Suwatchai (Mobizt) for his "Firebase_ESP_Client" library
  *
 */
 
