@@ -1,2 +1,3 @@
-# emergency-button
-Idea de sistema de aviso de emergencia, utilizando Node JS, ESP8266 (Arduino) y Firebase Realtime Database.
+# Emergency Button - Arduino Side
+Idea de sistema de aviso de emergencia, utilizando Arduino (esp8266), Firebase Realtime Database, HTML, CSS y Javascript.
+Este es el "Arduino-side" del proyecto.
